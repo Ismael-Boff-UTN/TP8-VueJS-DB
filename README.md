@@ -1,4 +1,4 @@
-# trabajo-practico-8-frontend
+# TP8-VueJS-DataBase/API
 
 ## Project setup
 ```
